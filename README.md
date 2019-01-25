@@ -19,10 +19,13 @@ M3C-store is a ...
 
 <!-- ![NeutralFuranPaper](images/NeutralFuranPaper.gif) -->
 
+<p align="center">
+  <img src="images/NeutralFuranPaper.gif">
+</p>
+
 Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.
 Erdmann, E., Łabuda, M., Aguirre, N. F., Díaz-Tendero, S. and Alcamí, M.
 J. Phys. Chem. A 122, 4153–4166 (2018)
-<img align="right" width="100" height="100" src="images/NeutralFuranPaper.gif">
 
 ![M3CPaper](images/M3CPaper.gif)
 
