@@ -67,8 +67,41 @@ $ cd M3C-store
 $ ls
 develop  master  README.md  utils
 ```
-<!--Finally, to use the database in M3C, you simply have to copy the files in a directory included in the PATH system variable, as for example bin in your home directory:
+Finally, to use the database in M3C, you simply have to copy the files in a directory included in the PATH system variable, as for example bin in your home directory:
 ```
-$ cp sjobq/* $HOME/bin/
-```-->
+$ cd master/6-311++G.3df.2p/ccsdt
+```
+
+```
+$ M3C.store makeDB H2C2.q0.m1-1.rxyz
+BEGIN FRAGMENTS_DATABASE
+
+   store = /home/nestor/Develop/M3C-store/master/6-311++G.3df.2p/ccsdt
+   reference = H2C2(s1)
+   
+   #------------------------------------------------------------------------------
+   #    Label    Z  M WL  SYM             geomFile          Eelec          maxVib
+   #------------------------------------------------------------------------------
+        H(d1)    0  2  1    1       H.q0.m2-1.rxyz     -13.667114                  #        R3(2-S)
+        C(s1)    0  1  5    1       C.q0.m1-1.rxyz   -1026.574168                  #        R3(1-D)
+        C(t1)    0  3  3    1       C.q0.m3-1.rxyz   -1028.024016                  #        R3(3-P)
+       H2(s1)    0  1  1    2      H2.q0.m1-1.rxyz     -31.388074     H(d1)+H(d1)  #  4.05  D*H(1-SGG)
+       HC(d1)    0  2  2    1      HC.q0.m2-1.rxyz   -1044.975479     H(d1)+C(t1)  #  3.28  C*V(2-PI)
+       HC(q1)    0  4  1    1      HC.q0.m4-1.rxyz   -1044.307456     H(d1)+C(t1)  #  2.62  C*V(4-SG)
+       C2(s1)    0  1  1    2      C2.q0.m1-1.rxyz   -2062.151541     C(t1)+C(t1)  #  6.10  D*H(1-SGG)
+       C2(t1)    0  3  2    2      C2.q0.m3-1.rxyz   -2062.058719     C(t1)+C(t1)  #  6.01  D*H(3-PIU)
+      H2C(s2)    0  1  1    2     H2C.q0.m1-2.rxyz   -1062.850491    H2(s1)+C(t1)  #  3.44  C2V(1-A1)
+      H2C(t2)    0  3  1    2     H2C.q0.m3-2.rxyz   -1063.289273    H2(s1)+C(t1)  #  3.88  C2V(3-B1)
+      H2C(t3)    0  3  1    2     H2C.q0.m3-3.rxyz   -1060.078559    H2(s1)+C(t1)  #  0.67  C2V(3-A2)
+      HC2(d1)    0  2  1    1     HC2.q0.m2-1.rxyz   -2080.744453    H(d1)+C2(s1)  #  4.93  C*V(2-SG)
+      HC2(d3)    0  2  1    2     HC2.q0.m2-3.rxyz   -2079.791997    H(d1)+C2(s1)  #  3.97  C2V(2-A1)
+      HC2(q2)    0  4  1    1     HC2.q0.m4-2.rxyz   -2076.964678    H(d1)+C2(s1)  #  1.15  CS(4-A")
+     H2C2(s1)    0  1  1    2    H2C2.q0.m1-1.rxyz   -2100.060065   H(d1)+HC2(d1)  #  5.65  D*H(1-SGG)
+     H2C2(s3)    0  1  1    2    H2C2.q0.m1-3.rxyz   -2098.092549   H2(s1)+C2(s1)  #  4.55  C2V(1-A1)
+     H2C2(t2)    0  3  1    2    H2C2.q0.m3-2.rxyz   -2095.545946   H(d1)+HC2(d3)  #  2.09  C2H(3-AU)
+     H2C2(t3)    0  3  1    2    H2C2.q0.m3-3.rxyz   -2096.088715   C(t1)+H2C(s2)  #  5.21  C2V(3-B2)
+     H2C2(t4)    0  3  1    2    H2C2.q0.m3-4.rxyz   -2096.178449   H2(s1)+C2(s1)  #  2.64  C2V(3-B2)
+   #------------------------------------------------------------------------------
+END FRAGMENTS_DATABASE
+```
 
