@@ -65,7 +65,7 @@ This should be the content of the M3C-store directory if previous steps were suc
 ```
 $ cd M3C-store
 $ ls
-develop  images  master  README.md  utils
+develop  master  README.md  utils
 ```
 <!--Finally, to use the database in M3C, you simply have to copy the files in a directory included in the PATH system variable, as for example bin in your home directory:
 ```
