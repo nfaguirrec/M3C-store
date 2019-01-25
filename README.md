@@ -17,27 +17,38 @@ M3C-store is a ...
 
 [![DOI](https://zenodo.org/badge/33068598.svg)](https://zenodo.org/badge/latestdoi/33068598)-->
 
-<!-- ![NeutralFuranPaper](images/NeutralFuranPaper.gif) -->
-
 <p align="center">
   <img src="images/NeutralFuranPaper.gif">
 </p>
 
-Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.
-Erdmann, E., Łabuda, M., Aguirre, N. F., Díaz-Tendero, S. and Alcamí, M.
-J. Phys. Chem. A 122, 4153–4166 (2018)
+[
+1. Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.
 
-![M3CPaper](images/M3CPaper.gif)
+E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí
 
-N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín, 
-M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.
-J. Chem. Theory Comput. 13, 992–1009 (2017)
+*J. Phys. Chem. A* **122**, 4153-4166 (2018)
+](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
 
-![HydrogenatedCarbonClusters](images/HydrogenatedCarbonClusters.gif)
+<p align="center">
+  <img src="images/M3CPaper.gif">
+</p>
 
-J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí, 
-Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters: C n H m q + ( n = 1–5, m = 1–4, q  = 0–3).
-J. Phys. Chem. A 120, 588–605 (2016)
+2. M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.
+
+N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.
+
+*J. Chem. Theory Comput.* **13**, 992-1009 (2017)
+
+<p align="center">
+  <img src="images/HydrogenatedCarbonClusters.gif">
+</p>
+
+3. Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:
+C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).
+
+J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.
+
+*J. Phys. Chem. A* **120**, 588-605 (2016)
 
 ### Using the database with M3C
 Download the .zip file from this page and extract the files,
