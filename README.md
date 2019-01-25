@@ -17,7 +17,7 @@ M3C-store is a ...
 
 [![DOI](https://zenodo.org/badge/33068598.svg)](https://zenodo.org/badge/latestdoi/33068598)-->
 
-![Terminal](images/NeutralFuranPaper.jpeg)
+![Terminal](images/NeutralFuranPaper.gif)
 Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.
 Erdmann, E., Łabuda, M., Aguirre, N. F., Díaz-Tendero, S. and Alcamí, M.
 J. Phys. Chem. A 122, 4153–4166 (2018)
@@ -27,7 +27,7 @@ N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín,
 M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.
 J. Chem. Theory Comput. 13, 992–1009 (2017)
 
-![Terminal](HydrogenatedCarbonClusters.gif)
+![Terminal](images/HydrogenatedCarbonClusters.gif)
 J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí, 
 Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters: C n H m q + ( n = 1–5, m = 1–4, q  = 0–3).
 J. Phys. Chem. A 120, 588–605 (2016)
