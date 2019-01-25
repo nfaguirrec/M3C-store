@@ -73,6 +73,15 @@ $ cd master/6-311++G.3df.2p/ccsdt
 ```
 
 ```
+$ grep Energy H2C2.q0.m* | sort -k3 -n
+H2C2.q0.m1-1.rxyz:Energy =   -77.1757558750
+H2C2.q0.m1-3.rxyz:Energy =   -77.1034510280
+H2C2.q0.m3-4.rxyz:Energy =   -77.0331091650
+H2C2.q0.m3-3.rxyz:Energy =   -77.0298114970
+H2C2.q0.m3-2.rxyz:Energy =   -77.0098651160
+```
+
+```
 $ M3C.store makeDB H2C2.q0.m1-1.rxyz
 BEGIN FRAGMENTS_DATABASE
 
