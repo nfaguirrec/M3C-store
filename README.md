@@ -19,17 +19,15 @@ of which molecules are used. M3C-store should be used in publications where a fu
 
 <!-- [![DOI](https://zenodo.org/badge/33068598.svg)](https://zenodo.org/badge/latestdoi/33068598)-->
 
-M3C-store dataset.  
-N. F. Aguirre, M. Alcamí, S. Díaz-Tendero, E. Erdmann, M. Łabuda, F. Martín, and J. P. Sánchez__
+M3C-store dataset. N. F. Aguirre, M. Alcamí, S. Díaz-Tendero, E. Erdmann, M. Łabuda, F. Martín, and J. P. Sánchez__
  2019. URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C-store)
  
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
+1. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**
 <p align="center">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
 </p>
-
-1. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**__
 Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.  
 E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí  
 [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
