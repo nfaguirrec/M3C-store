@@ -1,6 +1,6 @@
 ## M3C-store
 
-M3C-store is a ...
+The latest release of M3C-store (version 0.9.1, released 2019-01-26) contains 394 molecules including carbon clusters, hydrogenated and nitrogenated carbon clusters, and fragments from the furan molecule fragmentation. Its principal aim is to include the fragments necessary to describe the fragmentation of a given molecule. Each molecule is available at two levels of theory: B3LYP and CCSD(T), and two basis sets: 6-311++G(d,p) and 6-311++G(3df,2p). The files format is an extension of the popular .xyz format. Each molecule's file contains the energy, geometry, vibrational frequencies, symmetry and the symmetry of the electronic state. This database has been specially adapted as the starting point of an M3C calculation.
 
 ## Authors (alphabetical order)
 * Nestor F. Aguirre ( nfaguirrec@gmail.com )
