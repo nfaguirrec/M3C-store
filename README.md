@@ -24,7 +24,7 @@ M3C-store dataset. N. F. Aguirre, M. Alcamí, S. Díaz-Tendero, E. Erdmann, M. �
  
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
-1. C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)__
+1. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**.__
    Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.  
    E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí  
    [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
