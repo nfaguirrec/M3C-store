@@ -75,6 +75,38 @@ $ ls
 develop  master  README.md  utils
 ```
 
+### Files format
+
+All files are stored in the .rxyz format, which is the standard format
+used by M3C. This basically follows the same format than .xyz files (line 1: number of atoms
+n, line 2: comment, lines from 3 up to 3 + n: symbols and atomic positions in Å), except
+that in the second line the value of the energy is given in atomic units (it is not only a simple
+comment!), as well as the calculated vibrational frequencies in cm<sup>-1</sup>, the symmetry, and the
+electronic state.
+The following block shows the information of the lowest energy state of the acetylene
+(H<sub>2</sub>C<sub>2</sub>) molecule in the .rxyz format:
+
+```
+4
+Energy =   -77.1757558750
+C  0.316435238  0.578031412 -0.011149452
+C -0.455252451 -0.279767271  0.304468434
+H  1.001639096  1.339720463 -0.291420995
+H -1.140462527 -1.041456161  0.584725214
+
+FREQUENCIES 7
+659.4392
+659.4392
+765.5414
+765.5414
+2066.1167
+3408.1288
+3508.7083
+
+SYMMETRY D*H
+ELECTRONIC_STATE 1-SGG
+```
+
 ### Using the database with M3C
 
 To use the database with [M3C](https://github.com/nfaguirrec/M3C) follow the next steps:
