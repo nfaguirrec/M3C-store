@@ -32,7 +32,7 @@ Other entries in the bibliography are some of the citations for specific molecul
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
 </p>
 
-2. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5), C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-2, m=1-2, q=0,1)**<br/><br/>
+2. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/><br/>
    M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.
    N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.
    [*J. Chem. Theory Comput.* **13**, 992-1009 (2017)](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
