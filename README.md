@@ -75,16 +75,16 @@ $ ls
 develop  master  README.md  utils
 ```
 
-### Files format
+### File format .rxyz
 
 All files are stored in the .rxyz format, which is the standard format
 used by M3C. This basically follows the same format than .xyz files (line 1: number of atoms
 n, line 2: comment, lines from 3 up to 3 + n: symbols and atomic positions in Å), except
 that in the second line the value of the energy is given in atomic units (it is not only a simple
-comment!), as well as the calculated vibrational frequencies in cm<sup>-1</sup>, the symmetry, and the
-electronic state.
-The following block shows the information of the lowest energy state of the acetylene
-(H<sub>2</sub>C<sub>2</sub>) molecule in the .rxyz format:
+comment!). Additionally, calculated vibrational frequencies in cm<sup>-1</sup>, symmetry, and 
+electronic state are also included.
+The following block shows the information of the lowest energy state of the acetylene molecule 
+(H<sub>2</sub>C<sub>2</sub>) in the .rxyz format:
 
 ```
 4
