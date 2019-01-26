@@ -9,19 +9,37 @@ M3C-store is a ...
 * Ewa Erdmann ( xx@xxx )
 * Paul-Antoine Hervieux ( xx@xxx )
 * Marta Łabuda ( xx@xxx )
+* Fernando Martín ( xx@xx )
 * Juan P. Sánchez ( xx@xxx )
 
 ## Citing
 
-<!--To cite this database, please proceed as follows:
+If you use M3C-store dataset please cite the following papers:
 
-[![DOI](https://zenodo.org/badge/33068598.svg)](https://zenodo.org/badge/latestdoi/33068598)-->
+The list below is a bibliography which specifies the citations appropriate for the
+M3C-store quantum chemistry package. MOLPRO should be used in publications where
+a full author list will be printed. Where author lists are truncated,
+MOLPRO_brief should be used instead. Other entries in the bibliography are
+some of the citations for specific program modules written about in the User's
+Manual.
+
+The list below is a bibliography which specifies the citations appropriate for the M3C-store dataset depending
+of which molecules are used. M3C-store should be used in publications where a full author list will be printed.
+
+<!-- [![DOI](https://zenodo.org/badge/33068598.svg)](https://zenodo.org/badge/latestdoi/33068598)-->
+
+M3C-store dataset.  
+N. F. Aguirre, M. Alcamí, S. Díaz-Tendero, E. Erdmann, M. Łabuda, F. Martín, and J. P. Sánchez__
+ 2019. URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C-store)
+ 
+Other entries in the bibliography are some of the citations for specific molecular structures.
 
 <p align="center">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
 </p>
 
-1. Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.  
+1. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**
+Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.  
 E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí  
 [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
 
@@ -29,7 +47,8 @@ E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jctcce/2017/jctcce.2017.13.issue-3/acs.jctc.6b00984/20170308/images/medium/ct-2016-009843_0008.gif">
 </p>
 
-2. M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.  
+2. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5), C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-2, m=1-2, q=0,1)**
+M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.  
 N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.  
 [*J. Chem. Theory Comput.* **13**, 992-1009 (2017)](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
 
@@ -37,12 +56,13 @@ N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2016/jpcafh.2016.120.issue-4/acs.jpca.5b10143/20160129/images/medium/jp-2015-10143w_0015.gif">
 </p>
 
-3. Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:  
+3. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**
+Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:  
 C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).  
 J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.  
 [*J. Phys. Chem. A* **120**, 588-605 (2016)](http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143)
 
-### Using the database with M3C
+### Installing
 Download the .zip file from this page and extract the files,
 ```
 $ unzip M3C-store-master.zip
@@ -61,16 +81,24 @@ or clone the repository using git
 ```
 $ git clone https://github.com/nfaguirrec/M3C-store.git
 ```
-This should be the content of the M3C-store directory if previous steps were successful:
+The following should be the content of the M3C-store directory if previous steps were successful:
 ```
 $ cd M3C-store
 $ ls
 develop  master  README.md  utils
 ```
-Finally, to use the database in M3C, you simply have to copy the files in a directory included in the PATH system variable, as for example bin in your home directory:
+
+### Using the database with M3C
+
+Finally, to use the database with [M3C](https://github.com/nfaguirrec/M3C) follow the next steps:
+
+1. Choose the basis set and level of theory:
+
 ```
 $ cd master/6-311++G.3df.2p/ccsdt
 ```
+
+2. Choose the parent molecule (e.g. H2C2) and its lowest energy state (in this example H2C2.q0.m1-1.rxyz):
 
 ```
 $ grep Energy H2C2.q0.m* | sort -k3 -n
@@ -80,6 +108,9 @@ H2C2.q0.m3-4.rxyz:Energy =   -77.0331091650
 H2C2.q0.m3-3.rxyz:Energy =   -77.0298114970
 H2C2.q0.m3-2.rxyz:Energy =   -77.0098651160
 ```
+
+3. Use the command M3C.store from the [M3C project](https://github.com/nfaguirrec/M3C) to create the
+FRAGMENTS_DATABASE block  necessary for the M3C input file:
 
 ```
 $ M3C.store makeDB H2C2.q0.m1-1.rxyz
