@@ -19,8 +19,8 @@ of which molecules are used. M3C-store should be used in publications where a fu
 
 <!-- [![DOI](https://zenodo.org/badge/33068598.svg)](https://zenodo.org/badge/latestdoi/33068598)-->
 
-M3C-store dataset. N. F. Aguirre, M. Alcamí, S. Díaz-Tendero, E. Erdmann, M. Łabuda, F. Martín, and J. P. Sánchez__
- 2019. URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C-store)
+M3C-store dataset. N. F. Aguirre, M. Alcamí, S. Díaz-Tendero, E. Erdmann, M. Łabuda, F. Martín, and J. P. Sánchez. 2019.
+URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C-store)
  
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
@@ -77,7 +77,7 @@ develop  master  README.md  utils
 
 ### Using the database with M3C
 
-Finally, to use the database with [M3C](https://github.com/nfaguirrec/M3C) follow the next steps:
+To use the database with [M3C](https://github.com/nfaguirrec/M3C) follow the next steps:
 
 1. Choose the basis set and level of theory:
 
@@ -85,7 +85,7 @@ Finally, to use the database with [M3C](https://github.com/nfaguirrec/M3C) follo
 $ cd master/6-311++G.3df.2p/ccsdt
 ```
 
-2. Choose the parent molecule (e.g. H2C2) and its lowest energy state (in this example H2C2.q0.m1-1.rxyz):
+2. Choose the parent molecule (e.g. acetylene H<sub>2</sub>C<sub>2</sub>) and its lowest energy state (in this example H2C2.q0.m1-1.rxyz):
 
 ```
 $ grep Energy H2C2.q0.m* | sort -k3 -n
@@ -103,7 +103,7 @@ FRAGMENTS_DATABASE block  necessary for the M3C input file:
 $ M3C.store makeDB H2C2.q0.m1-1.rxyz
 BEGIN FRAGMENTS_DATABASE
 
-   store = /home/nestor/Develop/M3C-store/master/6-311++G.3df.2p/ccsdt
+   store = /myurl/M3C-store/master/6-311++G.3df.2p/ccsdt
    reference = H2C2(s1)
    
    #------------------------------------------------------------------------------
