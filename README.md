@@ -49,7 +49,7 @@ Other entries in the bibliography are some of the citations for specific molecul
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2016/jpcafh.2016.120.issue-4/acs.jpca.5b10143/20160129/images/medium/jp-2015-10143w_0015.gif">
 </p>
 
-### Installing
+## Installing
 Download the .zip file from this page and extract the files,
 ```
 $ unzip M3C-store-master.zip
@@ -75,7 +75,7 @@ $ ls
 develop  master  README.md  utils
 ```
 
-### File format .rxyz
+## File format .rxyz
 
 All files are stored in the .rxyz format, which is the standard format
 used by M3C. This basically follows the same format than .xyz files (line 1: number of atoms
@@ -107,7 +107,7 @@ SYMMETRY D*H
 ELECTRONIC_STATE 1-SGG
 ```
 
-### Using the database with M3C
+## Using the database with M3C
 
 To use the database with [M3C](https://github.com/nfaguirrec/M3C) follow the next steps:
 
