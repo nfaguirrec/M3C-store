@@ -4,13 +4,13 @@ M3C-store is a ...
 
 ## Authors (alphabetical order)
 * Nestor F. Aguirre ( nfaguirrec@gmail.com )
-* Manuel Alcamí ( xx@xxx )
-* Sergio Díaz-Tendero ( xx@xxx )
-* Ewa Erdmann ( xx@xxx )
-* Paul-Antoine Hervieux ( xx@xxx )
-* Marta Łabuda ( xx@xxx )
-* Fernando Martín ( xx@xx )
-* Juan P. Sánchez ( xx@xxx )
+* Manuel Alcamí ( manuel.alcami@uam.es )
+* Sergio Díaz-Tendero ( sergio.diaztendero@uam.es )
+* Ewa Erdmann ( e.erdmann7@gmail.com )
+* Paul-Antoine Hervieux ( paul-antoine.hervieux@ipcms.unistra.fr )
+* Marta Łabuda ( marta.labuda@pg.edu.pl )
+* Fernando Martín ( fernando.martin@uam.es )
+* Juan P. Sánchez ( juanp.sanchez@uam.es )
 
 ## Citing
 
@@ -26,7 +26,7 @@ Other entries in the bibliography are some of the citations for specific molecul
 
 1. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/><br/>
    Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.
-   E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí
+   E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí.
    [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
 <p align="center">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
