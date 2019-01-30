@@ -184,7 +184,7 @@ A(tc), and so on, where the specifier label is arbitrary but useful for the user
 
 - **Multiplicity (M)** Assigns the multiplicity of the electronic state of the molecule.
 
-- **Rotational symmetry number** Assigns the rotational symmetry number of the
+- **Rotational symmetry number (SYM)** Assigns the rotational symmetry number of the
 molecule. This is not relevant for this tutorial.
 
 - **Geometry file** in RXYZ format, where coordinates are given in angstroms and
