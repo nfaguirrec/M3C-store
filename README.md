@@ -187,8 +187,7 @@ A(tc), and so on, where the specifier label is arbitrary but useful for the user
 - **Rotational symmetry number (SYM)** Assigns the rotational symmetry number of the
 molecule. This is not relevant for this tutorial.
 
-- **Geometry file** in RXYZ format, where coordinates are given in angstroms and
-frequencies in cm<sup>−1</sup>
+- **Geometry file name** in .rxyz format
 
 - **Electronic energy** given in eV
 
