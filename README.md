@@ -6,7 +6,7 @@ The latest release of M3C-store (version 0.9.1, released 2019-01-26) contains 39
 * Nestor F. Aguirre ( nfaguirrec@gmail.com )
 * Manuel Alcamí ( manuel.alcami@uam.es )
 * Sergio Díaz-Tendero ( sergio.diaztendero@uam.es )
-* Ewa Erdmann ( e.erdmann7@gmail.com )
+* Ewa Erdmann ( ewa.erdmann@pg.edu.pl )
 * Paul-Antoine Hervieux ( paul-antoine.hervieux@ipcms.unistra.fr )
 * Marta Łabuda ( marta.labuda@pg.edu.pl )
 * Fernando Martín ( fernando.martin@uam.es )
@@ -77,14 +77,15 @@ develop  master  README.md  utils
 
 ## File format .rxyz
 
-All files are stored in the .rxyz format, which is the standard format
-used by M3C. This basically follows the same format than .xyz files (line 1: number of atoms
-n, line 2: comment, lines from 3 up to 3 + n: symbols and atomic positions in Å), except
-that in the second line the value of the energy is given in atomic units (it is not only a simple
-comment!). Additionally, calculated vibrational frequencies in cm<sup>-1</sup>, symmetry, and 
-electronic state are also included.
-The following block shows the information of the lowest energy state of the acetylene molecule 
-(H<sub>2</sub>C<sub>2</sub>) in the .rxyz format:
+All files are stored in the .rxyz format, which is the standard format used by M3C.
+The name of the files follow the format stoichiometry>.q<charge>.m<multiplicity>-<id>.rxyz
+e.g. H2C2.q0.m1-1.rxyz. This format basically the same than .xyz files
+(line 1: number of atoms n, line 2: comment, lines from 3 up to 3 + n: symbols and atomic
+positions in Å), except that in the second line the value of the energy is given in atomic
+units (it is not only a simple comment!). Additionally, calculated vibrational frequencies
+in cm<sup>-1</sup>, symmetry, and electronic state are also included. The following block
+shows the information of the lowest energy state of the acetylene molecule 
+ (H<sub>2</sub>C<sub>2</sub>) in the .rxyz format:
 
 ```
 4
@@ -163,4 +164,45 @@ BEGIN FRAGMENTS_DATABASE
    #------------------------------------------------------------------------------
 END FRAGMENTS_DATABASE
 ```
+
+This block consists in a table that contains as many rows
+as number of molecules or fragments are going to be considered in the process. Each
+row in the table contains the following information:
+
+- **Label**. Represents a unique identifier for the molecule. The format is <group
+label>(<specifier label>). The program will sort the molecules in several
+groups where each of those groups is identified by a group label. Additionally
+inside each group, each molecule is identified by a specifier label. This is
+specially advantageous to study observables which are to be discriminated by
+groups of molecules. For example: In a mass spectrum, a particular line represents
+the molecule A. However, this line is not a single signal but a superposition of
+signals produced by isomers or excited states of the same molecule A. In this
+sense, it is advantageous to label these isomers or excited states as A(s1), A(s2),
+A(tc), and so on, where the specifier label is arbitrary but useful for the user.
+
+- **Charge (Z)** Assigns the charge of the molecule.
+
+- **Multiplicity (M)** Assigns the multiplicity of the electronic state of the molecule.
+
+- **Rotational symmetry number** Assigns the rotational symmetry number of the
+molecule. This is not relevant for this tutorial.
+
+- **Geometry file** in RXYZ format, where coordinates are given in angstroms and
+frequencies in cm<sup>−1</sup>
+
+- **Electronic energy** given in eV
+
+- **Maximum vibrational energy allowed**. This value is determined by the energy of
+the lowest transition state available, whereby the molecule can be breaking up,
+specifically by its energy barrier. This value may be written directly in the table
+(given in eV).
+One simple way to estimate this value is to suppose that the reverse activation
+barrier is very small, then the maximum vibrational energy is equivalent to the
+difference between the electronic energy of the molecule and the electronic energy
+of the fragmentation products. In this case, you can write directly in the table,
+the chosen fragmentation channel. For example: A(s1)+B(st).
+
+M3C treats all the information after the # on a line as a comment. In this example,
+after # it is printed the actual value of the maximum vibrational energy in eV,
+and the symmetry of the molecule with the corresponding electronic state.
 
