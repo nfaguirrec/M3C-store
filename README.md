@@ -24,7 +24,15 @@ URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C
  
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
-1. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/><br/>
+1. **C<sub>n</sub>N<sub>m</sub> (n=0-4)**<br/><br/>
+   Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.
+   N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.
+   [*J. Chem. Phys.* **XXX**, XXXX-XXXX (2019)](http://pubs.acs.org/doi/XXXX)
+<p align="center">
+  <img src="https://photos.app.goo.gl/fm1sPJuALgLkpAtJ9">
+</p>
+
+2. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/><br/>
    Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.
    E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí.
    [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
@@ -32,7 +40,7 @@ Other entries in the bibliography are some of the citations for specific molecul
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
 </p>
 
-2. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/><br/>
+3. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/><br/>
    M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.
    N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.
    [*J. Chem. Theory Comput.* **13**, 992-1009 (2017)](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
@@ -40,7 +48,7 @@ Other entries in the bibliography are some of the citations for specific molecul
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jctcce/2017/jctcce.2017.13.issue-3/acs.jctc.6b00984/20170308/images/medium/ct-2016-009843_0008.gif">
 </p>
 
-3. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/><br/>
+4. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/><br/>
    Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:
    C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).
    J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.
@@ -78,7 +86,7 @@ develop  master  README.md  utils
 ## File format .rxyz
 
 All files are stored in the .rxyz format, which is the standard format used by M3C.
-The name of the files follow the format stoichiometry>.q<charge>.m<multiplicity>-<id>.rxyz
+The name of the files follow the format &lt;stoichiometry&gt;.q&lt;charge&gt;.m&lt;multiplicity&gt;-&lt;id&gt;.rxyz
 e.g. H2C2.q0.m1-1.rxyz. This format basically the same than .xyz files
 (line 1: number of atoms n, line 2: comment, lines from 3 up to 3 + n: symbols and atomic
 positions in Å), except that in the second line the value of the energy is given in atomic
