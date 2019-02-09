@@ -25,8 +25,7 @@ URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
 1. **C<sub>n</sub>N<sub>m</sub> (n=0-4)**<br/><br/>
-   Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.
-   
+   Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.<br/>
    N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.
    [*J. Chem. Phys.* **XXX**, XXXX-XXXX (2019)](http://pubs.acs.org/doi/XXXX)
 <p align="center">
@@ -35,7 +34,6 @@ Other entries in the bibliography are some of the citations for specific molecul
 
 2. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/><br/>
    Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.
-   
    E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí.
    [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
 <p align="center">
@@ -44,7 +42,6 @@ Other entries in the bibliography are some of the citations for specific molecul
 
 3. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/><br/>
    M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.
-   
    N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.
    [*J. Chem. Theory Comput.* **13**, 992-1009 (2017)](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
 <p align="center">
@@ -54,7 +51,6 @@ Other entries in the bibliography are some of the citations for specific molecul
 4. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/><br/>
    Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:
    C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).
-   
    J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.
    [*J. Phys. Chem. A* **120**, 588-605 (2016)](http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143)
 <p align="center">
