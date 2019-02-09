@@ -26,23 +26,23 @@ Other entries in the bibliography are some of the citations for specific molecul
 
 1. **C<sub>n</sub>N<sub>m</sub> (n=0-4)**<br/><br/>
    Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.<br/>
-   N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.
+   N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.<br/>
    [*J. Chem. Phys.* **XXX**, XXXX-XXXX (2019)](http://pubs.acs.org/doi/XXXX)
 <p align="center">
   <img src="https://lh3.googleusercontent.com/XPPSF2nHczOqTFLuOdkIWoY4P_pizHwfTgvY4F1NCEJZV20A7J6qMFarWV8X6Ousn2gKTYTX8koAe5r2yDLJkQOtrMSRsP-NEJOyoeV4SZ3m4xWum8fLsRoUMptzoKL8HVqzdoaQtuSYik_hQfUpKkm5GAQ1GDtqDf7AitCfh1S-TYJKQXIhRX2AV6OSbFAo2jKwccuJYMebbcdFyeQgd3gBOAw2YQEhiXeLXcH7BpSQeWm7K9nE3EoaS_Yy-3JeM2B09eWGQ5zpi1PNjZvY5p1KQ8ptZmdcH4LURn_CVIWq6Op8zhHn5Tm4zRSc63JiExfGT54O-MUjALA6Jt31oTztOPuxbCRmIWzDb6XVdrUCYx2bLo4KVblpxxvsxJYH4nPoQHvIJK4O6trhJDs5PTJIRVS62K9neV4TTBeS4bSO1fC4toMFQkd_8YbODmCT5tOM2gW9vkCwFyx6S9C4US37QPN_Jf4tC-0xR24h0u4cAI2MNvQ0uzXJsuSf0NAhZd10qMvy0akFiVfL9L5LCb7IjOceT83acOmmp9aiCWNdT9CQsZhly_7FYPISTSbctwBReTi6WSLVg2nPVqvYymk--QzZ6Dz6XUr1F6VAyj1jHZGbSl0Hgwu_NA0cBTWd0kAUmpWjVh8vx3ExZt7KuWLeDRByZZ8=w551-h294-no">
 </p>
 
 2. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/><br/>
-   Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.
-   E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí.
+   Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.<br/>
+   E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí.<br/>
    [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
 <p align="center">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
 </p>
 
 3. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/><br/>
-   M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.
-   N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.
+   M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.<br/>
+   N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.<br/>
    [*J. Chem. Theory Comput.* **13**, 992-1009 (2017)](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
 <p align="center">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jctcce/2017/jctcce.2017.13.issue-3/acs.jctc.6b00984/20170308/images/medium/ct-2016-009843_0008.gif">
@@ -50,8 +50,8 @@ Other entries in the bibliography are some of the citations for specific molecul
 
 4. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/><br/>
    Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:
-   C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).
-   J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.
+   C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).<br/>
+   J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.<br/>
    [*J. Phys. Chem. A* **120**, 588-605 (2016)](http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143)
 <p align="center">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2016/jpcafh.2016.120.issue-4/acs.jpca.5b10143/20160129/images/medium/jp-2015-10143w_0015.gif">
