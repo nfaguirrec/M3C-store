@@ -29,7 +29,7 @@ Other entries in the bibliography are some of the citations for specific molecul
    N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.
    [*J. Chem. Phys.* **XXX**, XXXX-XXXX (2019)](http://pubs.acs.org/doi/XXXX)
 <p align="center">
-  <img src="https://photos.app.goo.gl/fm1sPJuALgLkpAtJ9">
+  <img src="https://lh3.googleusercontent.com/pc_WJE8b1zfuA_wXkTT-kLiKSWmOTuUeW14bZMJCV3Z8NZxsEXLB_xPlsyn0pn6otivUBnD6Q84Qc8g9eDtGO356oz1xlG8HVeJSfM6ZGa7qUiIQUCT7a47XWmv-kEJZO6sM0hbpf-zfmH8RN5J6ave_l4YgKFWCUQ8sr7YdP7QWuPrQJoXzBLncgsJz-M-C_lol-ebuIhUgGj6XWc1OANmrDFH33HsRiEcUrPaBUFKSbNqUj-Dq_Z3AAMKwbcJOa-GdKCXwhDCujw76204Y5JUYsj15Oi4shu92aZsk7g90rhtXSXKUrOPO_g90dmSbhBaYCPAP4xr5AvyfYJubewlwIcyYySiZvBbIRwYa_9Mk12EuotYqhwmwYCltBb-0TsxeR0dFyBkKzUz2N7_a0GB7yk1IVhhuJSgPsHulsdbknZkcXRjOzBT76RmkW9huQuTdI1W9rlIVT6YHeOjLFM1WllXTYAyVF83RSEIU2cpYHMh46laaTmtIxfqmPRSJcxEIAzczpiFknWhVYuvYOnKtSNzUTh5Nfp42NKZiTnjr8rG3d4aNj-dKz1X_LEvV2CXlTs0NI81-WkLQAn3sCb_1wvYuVHX6YbnCI8dHHPC45ZrN5BVlTqhxFBIzkHWm6RF-_2WPK43ir2zamdaZ03gVX-v9Xjo=w302-h158-no">
 </p>
 
 2. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/><br/>
