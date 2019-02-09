@@ -24,7 +24,7 @@ URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C
  
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
-1. **C<sub>n</sub>N<sub>m</sub> (n=0-4)**<br/>
+1. **C<sub>n</sub>N (n=0-4)**<br/>
    Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.<br/>
    N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.<br/>
    [*J. Chem. Phys.* **XXX**, XXXX-XXXX (2019)](http://pubs.acs.org/doi/XXXX)
@@ -191,6 +191,8 @@ A(tc), and so on, where the specifier label is arbitrary but useful for the user
 - **Charge (Z)** Assigns the charge of the molecule.
 
 - **Multiplicity (M)** Assigns the multiplicity of the electronic state of the molecule.
+
+- **Multiplicity (WL)** Assigns the electronic state degeneracy due to the orbital angular momentum.
 
 - **Rotational symmetry number (SYM)** Assigns the rotational symmetry number of the
 molecule. This is not relevant for this tutorial.
