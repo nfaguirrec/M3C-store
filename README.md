@@ -2,12 +2,15 @@
 
 The latest release of M3C-store (version 0.9.1, released 2019-01-26) contains 394 molecules including carbon clusters, hydrogenated and nitrogenated carbon clusters, and fragments from the furan molecule fragmentation. Its principal aim is to include the fragments necessary to describe the fragmentation of a given molecule. Each molecule is available at two levels of theory: B3LYP and CCSD(T), and two basis sets: 6-311++G(d,p) and 6-311++G(3df,2p). The files format is an extension of the popular .xyz format. Each molecule's file contains the energy, geometry, vibrational frequencies, symmetry and the symmetry of the electronic state. This database has been specially adapted as the starting point of an M3C calculation.
 
-## Authors (alphabetical order)
+## Contributors (alphabetical order)
 * Nestor F. Aguirre ( nfaguirrec@gmail.com )
 * Manuel Alcamí ( manuel.alcami@uam.es )
+* Karine Béroff ( karine.beroff@u-psud.fr )
+* Marin Chabot ( chabot@ipno.in2p3.fr )
 * Sergio Díaz-Tendero ( sergio.diaztendero@uam.es )
 * Ewa Erdmann ( ewa.erdmann@pg.edu.pl )
 * Paul-Antoine Hervieux ( paul-antoine.hervieux@ipcms.unistra.fr )
+* Tijani IdBarkach ( idbarkach@ipno.in2p3.fr )
 * Marta Łabuda ( marta.labuda@pg.edu.pl )
 * Fernando Martín ( fernando.martin@uam.es )
 * Juan P. Sánchez ( juanp.sanchez@uam.es )
@@ -40,7 +43,13 @@ Other entries in the bibliography are some of the citations for specific molecul
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
 </p>
 
-3. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/>
+3. **C<sub>n</sub>N<sup>q+</sup> (n=0-3, q=0-1)**<br/>
+   Semiempirical breakdown curves of C2N(+) and C3N(+) molecules; application to products branching ratios predictions of physical and chemical processes involving these adducts.<br/>
+   T. IdBarkach, T. Mahajan, M. Chabot, K. Béroff, N.F. Aguirre, S. Diaz-Tendero, T. Launoy, A. Le Padelle, L. Perrot, M.A. Bonnin, K.C. Le, F. Geslin, N. de Séréville, F. Hammache, A. Jallat, A. Meyer, E. Charon, T. Pino, T. Hamelin, V. Wakelam<br/>
+   [*Mol. Astrophysics* **12**, 25-32 (2018)](https://www.sciencedirect.com/science/article/pii/S2405675818300125)
+
+
+5. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/>
    M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.<br/>
    N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.<br/>
    [*J. Chem. Theory Comput.* **13**, 992-1009 (2017)](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
@@ -48,7 +57,7 @@ Other entries in the bibliography are some of the citations for specific molecul
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jctcce/2017/jctcce.2017.13.issue-3/acs.jctc.6b00984/20170308/images/medium/ct-2016-009843_0008.gif">
 </p>
 
-4. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/>
+5. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/>
    Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:
    C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).<br/>
    J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.<br/>
