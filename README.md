@@ -27,7 +27,7 @@ URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C
  
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
-1. **C<sub>n</sub>N (n=0-4)**<br/>
+1. **C<sub>n</sub> (n=0-5), C<sub>n</sub>H<sub>m</sub> (n=0-4, m=1-2), C<sub>n</sub>N (n=3-4)**<br/>
    Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.<br/>
    N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.<br/>
    [*J. Chem. Phys.* **XXX**, XXXX-XXXX (2019)](http://pubs.acs.org/doi/XXXX)
