@@ -180,7 +180,7 @@ of which molecules are used. M3C-store should be used in publications where a fu
 
 <!-- [![DOI](https://zenodo.org/badge/33068598.svg)](https://zenodo.org/badge/latestdoi/33068598)-->
 
-M3C-store dataset. N. F. Aguirre, M. Alcamí, S. Díaz-Tendero, E. Erdmann, P.-A. Hervieux, M. Łabuda, F. Martín, and J. P. Sánchez. 2019.
+M3C-store dataset. N. F. Aguirre, M. Alcamí, K. Béroff, M. Chabot, S. Díaz-Tendero, E. Erdmann, P.-A. Hervieux, T. IdBarkach, M. Łabuda, F. Martín, and J. P. Sánchez. 2019.
 URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C-store)
  
 Other entries in the bibliography are some of the citations for specific molecular structures:
