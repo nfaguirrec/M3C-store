@@ -178,7 +178,7 @@ and the symmetry of the molecule with the corresponding electronic state.
 The list below is a bibliography which specifies the citations appropriate for the M3C-store dataset depending
 of which molecules are used. M3C-store should be used in publications where a full author list will be printed.
 
-<!-- [![DOI](https://zenodo.org/badge/33068598.svg)](https://zenodo.org/badge/latestdoi/33068598)-->
+[![DOI](https://zenodo.org/badge/80756117.svg)](https://zenodo.org/badge/latestdoi/80756117)
 
 M3C-store dataset. N. F. Aguirre, M. Alcamí, K. Béroff, M. Chabot, S. Díaz-Tendero, E. Erdmann, P.-A. Hervieux, T. IdBarkach, M. Łabuda, F. Martín, and J. P. Sánchez. 2019.
 URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C-store)
