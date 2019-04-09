@@ -188,7 +188,8 @@ Other entries in the bibliography are some of the citations for specific molecul
 1. **C<sub>n</sub> (n=0-5), C<sub>n</sub>H<sub>m</sub> (n=0-4, m=1-2), C<sub>n</sub>N (n=3-4)**<br/>
    Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.<br/>
    N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.<br/>
-   [*J. Chem. Phys.* **XXX**, XXXX-XXXX (2019)](http://pubs.acs.org/doi/XXXX)
+   J. Chem. Phys. 150, 144301 (2019)
+   [*J. Chem. Phys.* **150**, 144301 (2019)](https://aip.scitation.org/doi/10.1063/1.5083864)
 <p align="center">
   <img src="https://lh3.googleusercontent.com/AxYKPPOPVJ4kcPTEgjPPr0Us--M1qzP1goUVk-xwXSINj6Jf8xXnGhBNUzk2ywgQSQ9HzgsPyoGAlB-J-ghXnBxEZ3pji-iIaT6tnGN3_wAXr2YfxW0CUdKt_Y2ZSa7F15TV9QkFwU9oK8oXezLp4oymqmRtP2ZfEQNl21uoousJRP5dwhWsQP5cG24duoDKQd-rjhx-JRctuTHwvvnu1-24HPyKIqge2zwzaJcKk617_NROxvQGbj5gXDHYbzPp97AmmG7RGDLKFWbgNqe7_vTjQ40VyafoAQZ2yQIuJVzoxBxBqqczIpnT8s98Yrc77vWlvMGlTPTONJYedUabZsLVV9MXOOecsdUYF32aOCcdcxmorvnNfxsN0ml9vBas2WquK5KsNmxjOGGPxm7b-WxW6od1TP1TZjP_w-Orh18FnB9OeMFB4LB_wkYDtGyJJDoXrW0DxLKm_jKKSxzDxBcSsku-crBhqOaxdJXiuSma0pTK6udAQvwLgulqop7li-Bvljr7ql11FBqw7OehppL06kNsoarley0VUgzVyYWWXkMeMVmT9qVWr4kXBFajNCBSPWRTNZxA8wPgFtVZcJEqgXo-clDHricuOjOzYoDh4qbCk3PM6xIgGqzZWmlYuh1hrMJ2GiK9kaCPjktGR3I7g6YsS1o=w551-h294-no">
 </p>
