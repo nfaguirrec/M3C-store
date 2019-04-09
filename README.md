@@ -200,7 +200,9 @@ Other entries in the bibliography are some of the citations for specific molecul
    E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí.<br/>
    [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
 <p align="center">
+  <a href="http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
+  </a>
 </p>
 
 3. **C<sub>n</sub>N<sup>q+</sup> (n=0-3, q=0-1)**<br/>
@@ -214,7 +216,9 @@ Other entries in the bibliography are some of the citations for specific molecul
    N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.<br/>
    [*J. Chem. Theory Comput.* **13**, 992-1009 (2017)](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
 <p align="center">
+  <a href="http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jctcce/2017/jctcce.2017.13.issue-3/acs.jctc.6b00984/20170308/images/medium/ct-2016-009843_0008.gif">
+  </a>
 </p>
 
 5. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/>
@@ -223,5 +227,7 @@ Other entries in the bibliography are some of the citations for specific molecul
    J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.<br/>
    [*J. Phys. Chem. A* **120**, 588-605 (2016)](http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143)
 <p align="center">
+  <a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143">
   <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jpcafh/2016/jpcafh.2016.120.issue-4/acs.jpca.5b10143/20160129/images/medium/jp-2015-10143w_0015.gif">
+  </a>
 </p>
