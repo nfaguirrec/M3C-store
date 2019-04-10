@@ -176,7 +176,7 @@ and the symmetry of the molecule with the corresponding electronic state.
 ## Citing
 
 The list below is a bibliography which specifies the citations appropriate for the M3C-store dataset depending
-of which molecules are used. M3C-store should be used in publications where a full author list will be printed.
+of which molecules are used.
 
 [![DOI](https://zenodo.org/badge/80756117.svg)](https://zenodo.org/badge/latestdoi/80756117)
 
