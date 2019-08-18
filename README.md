@@ -185,7 +185,12 @@ URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C
  
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
-1. **C<sub>n</sub> (n=0-5), C<sub>n</sub>H<sub>m</sub> (n=0-4, m=1-2), C<sub>n</sub>N (n=3-4)**<br/>
+1. **C<sub>n</sub>N<sup>+</sup> (n=1-3)**<br/>
+   Excitation, ionization, neutralization and anionic production in collisions of C<sup>+</sup>, N<sup>+</sup> and C<sub>n</sub>N<sup>+</sup> (n=1-3) with He atoms at 2.2 a.u velocity; cross sections and dissociation branching ratios.<br/>
+   T. Mahajan, K. Beroff, B. Pons, C. Illescas, M. Chabot, T. Idbarkach, T. Launoy, A. Le Padellec, A. Jallat, A. Jorge, N. F. Aguirre and S. Diaz-Tendero.<br/>
+   [doi:10.1088/1361-6455/ab3625](https://doi.org/10.1088/1361-6455/ab3625)
+
+2. **C<sub>n</sub> (n=0-5), C<sub>n</sub>H<sub>m</sub> (n=0-4, m=1-2), C<sub>n</sub>N (n=3-4)**<br/>
    Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.<br/>
    N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.<br/>
    [*J. Chem. Phys.* **150**, 144301 (2019)](https://aip.scitation.org/doi/10.1063/1.5083864)
@@ -195,7 +200,7 @@ Other entries in the bibliography are some of the citations for specific molecul
   </a>
 </p>
 
-2. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/>
+3. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/>
    Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.<br/>
    E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí.<br/>
    [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
@@ -205,7 +210,7 @@ Other entries in the bibliography are some of the citations for specific molecul
   </a>
 </p>
 
-3. **C<sub>n</sub>N<sup>q+</sup> (n=0-3, q=0-1)**<br/>
+4. **C<sub>n</sub>N<sup>q+</sup> (n=0-3, q=0-1)**<br/>
    Semiempirical breakdown curves of C2N(+) and C3N(+) molecules; application to products branching ratios predictions of physical and chemical processes involving these adducts.<br/>
    T. IdBarkach, T. Mahajan, M. Chabot, K. Béroff, N.F. Aguirre, S. Diaz-Tendero, T. Launoy, A. Le Padelle, L. Perrot, M.A. Bonnin, K.C. Le, F. Geslin, N. de Séréville, F. Hammache, A. Jallat, A. Meyer, E. Charon, T. Pino, T. Hamelin, and V. Wakelam<br/>
    [*Mol. Astrophysics* **12**, 25-32 (2018)](https://www.sciencedirect.com/science/article/pii/S2405675818300125)
@@ -221,7 +226,7 @@ Other entries in the bibliography are some of the citations for specific molecul
   </a>
 </p>
 
-5. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/>
+6. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/>
    Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:
    C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).<br/>
    J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.<br/>
