@@ -1,6 +1,6 @@
 ## M3C-store
 
-The latest release of M3C-store (version 1.0.3, released 2023-02-17) contains 3965 molecules including carbon clusters, hydrogenated and nitrogenated carbon clusters, fragments from the furan molecule fragmentation and protonated cysteine molecule. Its principal aim is to include the fragments necessary to describe the fragmentation of a given molecule. Some molecules are available at two levels of theory: B3LYP and CCSD(T), and two basis sets: 6-311++G(d,p) and 6-311++G(3df,2p). Cysteine fragments are available at M06-2X/6-311++G(d,p). The files format is an extension of the popular .xyz format. Each molecule's file contains the energy, geometry, vibrational frequencies, symmetry and the symmetry of the electronic state. This database has been specially adapted as the starting point of an M3C calculation (see [M3C project](https://github.com/nfaguirrec/M3C)).
+The latest release of M3C-store (version 1.0.3, released 2023-02-17) contains 3965 molecules including carbon clusters, hydrogenated and nitrogenated carbon clusters, fragments from the furan molecule fragmentation and protonated cysteine molecule. Its principal aim is to include the fragments necessary to describe the fragmentation of a given molecule. Some molecules are available at two levels of theory: B3LYP and CCSD(T), and two basis sets: 6-311++G(d,p) and 6-311++G(3df,2p). Adamantane fragments are available at B3LYP/6-31G(d). Cysteine fragments are available at M06-2X/6-311++G(d,p). The files format is an extension of the popular .xyz format. Each molecule's file contains the energy, geometry, vibrational frequencies, symmetry and the symmetry of the electronic state. This database has been specially adapted as the starting point of an M3C calculation (see [M3C project](https://github.com/nfaguirrec/M3C)).
 
 ## Installing
 Download the .zip file from this page and extract the files,
@@ -190,56 +190,62 @@ URL: [https://github.com/nfaguirrec/M3C-store](https://github.com/nfaguirrec/M3C
 Other entries in the bibliography are some of the citations for specific molecular structures:
 
 
-1. **Non-Ergodic Fragmentation upon Collision Induced Activation of Cysteine-Water Cluster Cations**
+1. **Cysteine-Water Cluster Cations Fragments**
+   Non-Ergodic Fragmentation upon Collision Induced Activation of Cysteine-Water Cluster Cations
    L. Tiefenthaler, P. Scheier, E. Erdmann, N. F. Aguirre, S. Díaz-Tendero, T. F. M. Luxford, and J. Kočišek
-   [*Phys. Chem. Chem. Phys.* **25** 5361 (2023)](https://doi.org/10.1039/D2CP04172C)
+   [*Phys. Chem. Chem. Phys.* **25** (2023) 5361](https://doi.org/10.1039/D2CP04172C)
 
-2. **C<sub>n</sub>N<sup>+</sup> (n=1-3)**<br/>
+2. **Doubly Charged Adamantane Fragments**
+   Dissociation dynamics of the diamondoid adamantane upon photoionization by XUV femtosecond pulses.
+   S. Maclot, J. Lahl, J. Peschel, H. Wikmark, P. Rudawski, F. Brunner, H. Coudert-Alteirac, S. Indrajith, B. A. Huber, S. Díaz-Tendero, N. F. Aguirre, P. Rousseau, P. Johnsson
+   [*Sci. Rep.* **10** (2020) 2884](https://doi.org/10.1038/s41598-020-59649-1)
+
+3. **C<sub>n</sub>N<sup>+</sup> (n=1-3)**<br/>
    Excitation, ionization, neutralization and anionic production in collisions of C<sup>+</sup>, N<sup>+</sup> and C<sub>n</sub>N<sup>+</sup> (n=1-3) with He atoms at 2.2 a.u velocity; cross sections and dissociation branching ratios.<br/>
    T. Mahajan, K. Beroff, B. Pons, C. Illescas, M. Chabot, T. Idbarkach, T. Launoy, A. Le Padellec, A. Jallat, A. Jorge, N. F. Aguirre and S. Diaz-Tendero.<br/>
-   [doi:10.1088/1361-6455/ab3625](https://doi.org/10.1088/1361-6455/ab3625)
+   [*J. Phys. B: At. Mol. Opt. Phys.* **52** (2019) 195204](https://doi.org/10.1088/1361-6455/ab3625)
 
-3. **C<sub>n</sub> (n=0-5), C<sub>n</sub>H<sub>m</sub> (n=0-4, m=1-2), C<sub>n</sub>N (n=3-4)**<br/>
+4. **C<sub>n</sub> (n=0-5), C<sub>n</sub>H<sub>m</sub> (n=0-4, m=1-2), C<sub>n</sub>N (n=3-4)**<br/>
    Fully versus Constrained Statistical Fragmentation of Carbon Clusters and their Heteronuclear Derivatives.<br/>
    N. F. Aguirre, S. Díaz-Tendero, T. IdBarkach, M. Chabot, K. Béroff, M. Alcamí, and F. Martín.<br/>
-   [*J. Chem. Phys.* **150**, 144301 (2019)](https://aip.scitation.org/doi/10.1063/1.5083864)
-<p align="center">
+   [*J. Chem. Phys.* **150** (2019) 144301](https://aip.scitation.org/doi/10.1063/1.5083864)
+<!--<p align="center">
   <a href="https://aip.scitation.org/doi/10.1063/1.5083864">
   <img src="https://lh3.googleusercontent.com/AxYKPPOPVJ4kcPTEgjPPr0Us--M1qzP1goUVk-xwXSINj6Jf8xXnGhBNUzk2ywgQSQ9HzgsPyoGAlB-J-ghXnBxEZ3pji-iIaT6tnGN3_wAXr2YfxW0CUdKt_Y2ZSa7F15TV9QkFwU9oK8oXezLp4oymqmRtP2ZfEQNl21uoousJRP5dwhWsQP5cG24duoDKQd-rjhx-JRctuTHwvvnu1-24HPyKIqge2zwzaJcKk617_NROxvQGbj5gXDHYbzPp97AmmG7RGDLKFWbgNqe7_vTjQ40VyafoAQZ2yQIuJVzoxBxBqqczIpnT8s98Yrc77vWlvMGlTPTONJYedUabZsLVV9MXOOecsdUYF32aOCcdcxmorvnNfxsN0ml9vBas2WquK5KsNmxjOGGPxm7b-WxW6od1TP1TZjP_w-Orh18FnB9OeMFB4LB_wkYDtGyJJDoXrW0DxLKm_jKKSxzDxBcSsku-crBhqOaxdJXiuSma0pTK6udAQvwLgulqop7li-Bvljr7ql11FBqw7OehppL06kNsoarley0VUgzVyYWWXkMeMVmT9qVWr4kXBFajNCBSPWRTNZxA8wPgFtVZcJEqgXo-clDHricuOjOzYoDh4qbCk3PM6xIgGqzZWmlYuh1hrMJ2GiK9kaCPjktGR3I7g6YsS1o=w551-h294-no">
   </a>
-</p>
+</p>-->
 
-4. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/>
+5. **C<sub>n</sub>H<sub>m</sub>O (n=1-4, m=0-4)**<br/>
    Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.<br/>
    E. Erdmann, M. Łabuda, N. F. Aguirre, S. Díaz-Tendero, and M. Alcamí.<br/>
-   [*J. Phys. Chem. A* **122**, 4153-4166 (2018)](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
+   [*J. Phys. Chem. A* **122** (2018) 4153-4166](http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881)
 <p align="center">
   <a href="http://pubs.acs.org/doi/10.1021/acs.jpca.8b00881">
   <img src="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jpcafh/2018/jpcafh.2018.122.issue-16/acs.jpca.8b00881/20180423/images/medium/jp-2018-00881v_0014.gif">
   </a>
 </p>
 
-5. **C<sub>n</sub>N<sup>q+</sup> (n=0-3, q=0-1)**<br/>
+6. **C<sub>n</sub>N<sup>q+</sup> (n=0-3, q=0-1)**<br/>
    Semiempirical breakdown curves of C2N(+) and C3N(+) molecules; application to products branching ratios predictions of physical and chemical processes involving these adducts.<br/>
    T. IdBarkach, T. Mahajan, M. Chabot, K. Béroff, N.F. Aguirre, S. Diaz-Tendero, T. Launoy, A. Le Padelle, L. Perrot, M.A. Bonnin, K.C. Le, F. Geslin, N. de Séréville, F. Hammache, A. Jallat, A. Meyer, E. Charon, T. Pino, T. Hamelin, and V. Wakelam<br/>
-   [*Mol. Astrophysics* **12**, 25-32 (2018)](https://www.sciencedirect.com/science/article/pii/S2405675818300125)
+   [*Mol. Astrophysics* **12** (2018) 25-32](https://www.sciencedirect.com/science/article/pii/S2405675818300125)
 
 
-6. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/>
+7. **C<sub>n</sub></sub> (n=1-9), C<sub>n</sub></sub><sup>+</sup> (n=1-5)**<br/>
    M3C: A Computational Approach To Describe Statistical Fragmentation of Excited Molecules and Clusters.<br/>
    N. F. Aguirre, S. Díaz-Tendero, P.-A. Hervieux, M. Alcamí, and F. Martín.<br/>
-   [*J. Chem. Theory Comput.* **13**, 992-1009 (2017)](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
+   [*J. Chem. Theory Comput.* **13** (2017) 992-1009](http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984)
 <p align="center">
   <a href="http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6b00984">
   <img src="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jctcce/2017/jctcce.2017.13.issue-3/acs.jctc.6b00984/20170308/images/medium/ct-2016-009843_0008.gif">
   </a>
 </p>
 
-7. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/>
+8. **C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3)**<br/>
    Structure, Ionization, and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters:
    C<sub>n</sub>H<sub>m</sub><sup>q+</sup> (n=1-5, m=1-4, q=0-3).<br/>
    J. P. Sánchez, N. F. Aguirre, S. Díaz-Tendero, F. Martín, and M. Alcamí.<br/>
-   [*J. Phys. Chem. A* **120**, 588-605 (2016)](http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143)
+   [*J. Phys. Chem. A* **120** (2016) 588-605](http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143)
 <p align="center">
   <a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143">
   <img src="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jpcafh/2016/jpcafh.2016.120.issue-4/acs.jpca.5b10143/20160129/images/medium/jp-2015-10143w_0015.gif">
